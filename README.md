@@ -1,4 +1,4 @@
-[![ASSEMBLING Video](https://img.youtube.com/vi/qDqX-32HHNM/0.jpg)](https://youtu.be/qDqX-32HHNM)
+[![ASSEMBLING Video](https://img.youtube.com/vi/xbkhcMHGibU/0.jpg)](https://youtu.be/xbkhcMHGibU)
 
 # Halloween Jack-o-Lantern Pumpkin 
 ## With LED Lights and Fog effect
@@ -25,6 +25,7 @@ This repo will include all the 3D printing files and code needed to re-build thi
 
 * *https://geni.us/zfrg - 3D Printer Artillerie Sidewinder X1
 * *https://geni.us/BMZkFD7 – Leatherman Free P4
+* *https://geni.us/7pX4K – Porsche Design 301 Kitchen Knife Set
 * *https://geni.us/oAjWw - Crimp Pliers, if you want to create the Dupont cables yourself
 * *https://geni.us/z0BYSH – non-permanent Marker
 * *https://geni.us/ZBgX – LED Licht IP68 with Remote
